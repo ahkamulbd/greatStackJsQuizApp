@@ -67,3 +67,11 @@ body {
     /* display: block; */
     display: none;
 }
+
+.correct {
+    background: #9aeabe;
+}
+
+.incorrect {
+    background: #ff9393;
+}
